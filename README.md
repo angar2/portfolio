@@ -1,4 +1,4 @@
-# 💻 엄관용's portfolio
+# 💻 엄관용's Portfolio
 
 
 ## 📌 introduce
