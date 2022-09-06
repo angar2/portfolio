@@ -2,7 +2,7 @@
 
 
 ## 📌 introduce
-
+신입 백엔드 개발자 엄관용입니다.
 
 ## 📌 contact
 - Email: uky00832@gmail.com
