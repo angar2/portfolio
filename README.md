@@ -5,8 +5,8 @@
 신입 백엔드 개발자 엄관용입니다.
 
 ## 📌 contact
-- Email: uky00832@gmail.com
-- Blog: https://velog.io/@angari
+- 이메일: uky00832@gmail.com
+- 블로그: https://velog.io/@angari
 - Github: https://github.com/angar2
 
 
