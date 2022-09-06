@@ -14,6 +14,7 @@
 
 ### 1. How Old Are You?
 > 
+> [프로젝트 상세 설명](https://github.com/angar2/HOAY-backend) 참고
 ---
 ### 2. Ladder to Wine
 > 
